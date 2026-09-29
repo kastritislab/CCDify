@@ -119,7 +119,7 @@ python smiles_to_ccd.py \
 
 If you use this code within your work, please cite us!
 
-A DOI-backed citation will be provided via Zenodo.
+[![DOI](https://zenodo.org/badge/1394643775.svg)](https://doi.org/10.5281/zenodo.23034811)
 
 ## License
 
